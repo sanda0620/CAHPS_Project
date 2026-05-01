@@ -1,5 +1,0 @@
-"test","statistic","p_value","significant"
-"Kruskal-Wallis (HPR)",1.43,0.698,FALSE
-"Spearman rho",0.013,0.465,FALSE
-"One-Way ANOVA",0.479,0.697,FALSE
-"Kruskal-Wallis (HCR)",8.1,0.044,TRUE

@@ -1,3 +1,0 @@
-"model","r2_test","rmse","cv_r2","aic"
-"Model 1 (comm only)",3e-04,3.11,-0.001,12308.48
-"Model 2 (full)",4e-04,3.11,-0.003,12312.36
